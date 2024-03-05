@@ -1,0 +1,13 @@
+{
+  "name": "PluginDemo",
+  "id": "1282396984101567707",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": ["https://cdn.jsdelivr.net"]
+  }
+}
